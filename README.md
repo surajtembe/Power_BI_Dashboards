@@ -40,7 +40,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
+![Data Jobs Dashboard Page 2](Job_Title_Drill_through.png)  
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
